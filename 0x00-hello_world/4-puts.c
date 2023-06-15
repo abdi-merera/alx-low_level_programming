@@ -1,11 +1,16 @@
-#!/bin/bash
-#include <stdio.h>
-
+/**
+	  * main - Entry point of the program
+	  *  *
+	  *   * Description: Prints the string "Programming is like building a multilingual puzzle"
+	  *    *              using the puts function.
+	  *     * Return: 0 on success
+	  *      */
 int main(void)
 {
-    char *message = "Programming is like building a multilingual puzzle";
+    char *str = "Programming is like building a multilingual puzzle";
 
-    puts(message);
+    puts(str);
 
     return 0;
+}
 }
