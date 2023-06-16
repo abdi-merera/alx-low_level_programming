@@ -7,7 +7,7 @@
  * Return: Always 0 (Success)
  */
 int main(void)
-{	
+{
 	int digit1;
 	int digit2;
 	int digit3;
