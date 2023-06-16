@@ -7,10 +7,9 @@
  * Return: Always 0 (Success)
  */
 int main(void)
-{
-	
-	int digit1; 
-	int digit2; 
+{	
+	int digit1;
+	int digit2;
 	int digit3;
 
 	for (digit1 = 0; digit1 <= 7; digit1++)
